@@ -22,4 +22,4 @@ document.querySelector('a.item-contributor__link').href="http://www.georgiancoll
 document.querySelector('a[href="https://www.chapters.indigo.ca/en-ca/checkout/shoppingbag.html?link-usage=Header%3A%20https%3A%2F%2Fwww.chapters.indigo.ca%2Fen-ca%2Fcheckout%2Fshoppingbag.html"]').addEventListener('click',function(event){event.preventDefault();document.documentElement.innerHTML=''});
 
 //^^ This is not the best way to do it, but I had no other idea on how to get it done.
-
+//I'm just testing SSH here
